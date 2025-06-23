@@ -1,0 +1,12 @@
+{
+  "name": "n8n-standalone",
+  "version": "1.0.0",
+  "description": "n8n simplificado para Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n"
+  },
+  "dependencies": {
+    "n8n": "^1.45.0"
+  }
+}
